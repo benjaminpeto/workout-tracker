@@ -1,0 +1,16 @@
+{
+  "name": "Benji Workout Tracker",
+  "short_name": "Workout",
+  "description": "Private 12-week workout tracker",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07080c",
+  "theme_color": "#07080c",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
